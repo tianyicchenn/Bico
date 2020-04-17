@@ -28,7 +28,7 @@
                                 <rect key="frame" x="157" y="543" width="100" height="60"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="AIf-rh-H76"/>
-                                    <constraint firstAttribute="width" constant="100" id="Uzy-sP-kBs"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="100" id="Uzy-sP-kBs"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="50"/>
                                 <color key="textColor" name="background"/>
